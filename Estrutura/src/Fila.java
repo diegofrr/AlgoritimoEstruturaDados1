@@ -18,9 +18,9 @@ public class Fila {
 			}else {
 				fila.enqueue(linha);
 			}
-			System.out.println(fila.size());
+			
 		}
-		
+		System.out.println(fila.size());
 		
 
 	}

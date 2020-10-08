@@ -18,11 +18,11 @@ public class Pilha {
 			}else {
 				pilha.push(linha);
 			}
-			System.out.println(pilha.size());
+			
 			
 		}
 		
-		
+		System.out.println(pilha.size());
 		
 
 	}
