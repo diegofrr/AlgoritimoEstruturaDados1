@@ -1,4 +1,4 @@
-package Merge;
+package Ordenadores;
 
 import java.util.Scanner;
 
